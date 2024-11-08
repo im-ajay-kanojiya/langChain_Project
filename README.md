@@ -37,10 +37,6 @@ pip install -U -q "google-generativeai>=0.7.2" faiss-cpu langchain PyPDF2
 
 ### Example Commands
 
-- After uploading the PDF, view its text:
-  ```python
-  print(raw_text)
-  ```
 - Generate embeddings:
   ```python
   document_search = FAISS.from_texts(texts, embeddings)
