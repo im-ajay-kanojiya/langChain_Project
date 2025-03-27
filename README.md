@@ -1,4 +1,4 @@
-# FluidAI PDF Analysis Assignment
+# PDF Analysis Assignment
 
 ## Project Overview
 
